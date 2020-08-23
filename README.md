@@ -2,4 +2,4 @@ This is a Python game based on the project proposed in the book [Learn Python in
 
 It is a simple but at the same time useful example to get all the usefull concepts of Object Oriented Programming in Python.
 
-![Image of the book](https://images-na.ssl-images-amazon.com/images/I/61Y5pl3FF0L.jpg width=200)
+![Image of the book](https://images-na.ssl-images-amazon.com/images/I/61Y5pl3FF0L.jpg | width=200)
